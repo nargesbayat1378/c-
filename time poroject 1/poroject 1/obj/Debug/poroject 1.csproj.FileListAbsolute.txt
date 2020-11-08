@@ -1,0 +1,21 @@
+c:\users\laptob\documents\visual studio 2013\Projects\poroject 1\poroject 1\bin\Debug\poroject 1.exe.config
+C:\Users\laptob\Documents\Visual Studio 2013\Projects\poroject 1\poroject 1\bin\Debug\poroject 1.exe
+C:\Users\laptob\Documents\Visual Studio 2013\Projects\poroject 1\poroject 1\bin\Debug\poroject 1.pdb
+C:\Users\laptob\Documents\Visual Studio 2013\Projects\poroject 1\poroject 1\obj\Debug\poroject 1.csprojResolveAssemblyReference.cache
+C:\Users\laptob\Documents\Visual Studio 2013\Projects\poroject 1\poroject 1\obj\Debug\poroject_1.Form1.resources
+C:\Users\laptob\Documents\Visual Studio 2013\Projects\poroject 1\poroject 1\obj\Debug\poroject_1.Properties.Resources.resources
+C:\Users\laptob\Documents\Visual Studio 2013\Projects\poroject 1\poroject 1\obj\Debug\poroject 1.csproj.GenerateResource.Cache
+C:\Users\laptob\Documents\Visual Studio 2013\Projects\poroject 1\poroject 1\obj\Debug\poroject 1.exe
+C:\Users\laptob\Documents\Visual Studio 2013\Projects\poroject 1\poroject 1\obj\Debug\poroject 1.pdb
+E:\poroject\poroject 1\poroject 1\bin\Debug\poroject 1.exe.config
+E:\poroject\poroject 1\poroject 1\obj\Debug\poroject 1.exe
+E:\poroject\poroject 1\poroject 1\obj\Debug\poroject 1.pdb
+E:\poroject\poroject 1\poroject 1\bin\Debug\poroject 1.exe
+E:\poroject\poroject 1\poroject 1\bin\Debug\poroject 1.pdb
+E:\poroject\poroject 1\poroject 1\obj\Debug\poroject 1.csprojResolveAssemblyReference.cache
+E:\poroject\poroject 1\poroject 1\obj\Debug\poroject_1.Form1.resources
+E:\poroject\poroject 1\poroject 1\obj\Debug\poroject_1.Properties.Resources.resources
+E:\poroject\poroject 1\poroject 1\obj\Debug\poroject 1.csproj.GenerateResource.Cache
+E:\poroject\time poroject 1\poroject 1\bin\Debug\poroject 1.exe.config
+E:\poroject\time poroject 1\poroject 1\obj\Debug\poroject 1.exe
+E:\poroject\time poroject 1\poroject 1\obj\Debug\poroject 1.pdb
